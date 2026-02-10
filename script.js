@@ -194,7 +194,7 @@ else{
 
 //=========AUTO TYPE===============
 
-const role = "web developer";
+const role = "java backend developer";
 autoType[0].innerHTML = "";
 
 let i = 0;
